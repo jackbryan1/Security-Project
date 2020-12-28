@@ -1,0 +1,1 @@
+<% response.sendRedirect("/LotteryWebApp_war"); %>
